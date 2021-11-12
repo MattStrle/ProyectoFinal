@@ -1,0 +1,48 @@
+body{background-color: #08C9BA;}
+.TituloPrincipal{text-align: center;
+background-color: white;border:3px solid blue;
+font-style: italic;}
+.subtitulo{font-size: 20px;
+font-style: oblique;}
+.subtitulo2{font-size: 19px;
+  font-style:oblique;
+background-color:#F0D685;
+border: 1px solid lightcoral;}
+.Intro{font-style:italic;
+font-size: 20px;}
+.independencia{display: block;
+margin:auto;
+width:400px;}
+.independencia:hover {-webkit-transform:scale(1.3);transform:scale(1.3);}
+.independencia {overflow:hidden;}
+.Info{font-style: italic;
+font-size: 20px;}
+.bandera{width:400px;
+display: block;
+margin: auto;}
+.banderachica{width: 20px;}
+.banderayugoslavia{width: 20px;}
+.Info{font-style:oblique;
+background-color:#F0D685;
+border: 1px solid lightcoral;}
+.Himno{font-style: oblique;
+font-size: 20px;}
+.yugoslavia{font-style: oblique;
+font-size: 19px;
+border: 2px solid #F0D685;
+background-color: white;}
+.antecedentes{font-size: 20px;
+font-style: italic;}
+.TituloIntro{font-size: 20px;
+font-style: oblique;}
+.soldadosyugoslavia{font-size: 20px;
+font-style: italic;}
+.soldados{font-size: 20px;
+font-style: italic;}
+.lista{font-size: 20px;
+font-style: italic;
+border: 2px solid white;
+background-color:#F0D685;}
+.Himno{align-items: left;}
+.desenlace{font-size: 20px;
+font-style: italic;}
